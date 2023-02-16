@@ -19,7 +19,6 @@
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5",
-    "roave/security-advisories": "dev-master#09c351f048fb405d8b8e73af45dce4e0197cc050",
     "phpunit/phpunit": "^7.5",
     "php-coveralls/php-coveralls": "^2.2"
   },
